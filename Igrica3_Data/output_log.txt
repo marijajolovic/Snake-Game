@@ -1,0 +1,74 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   26.20.100.7262
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marija\Desktop\Snake Town\Igrica3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.025500 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at PauseWindow.HideStatic () [0x00000] in <filename unknown>:0 
+  at GameHandler.ResumeGame () [0x00000] in <filename unknown>:0 
+  at GameHandler.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.431100 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 0.280900 ms (FindLiveObjects: 0.025800 ms CreateObjectMapping: 0.019600 ms MarkObjects: 0.202100 ms  DeleteObjects: 0.032600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.589900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 0.383500 ms (FindLiveObjects: 0.031800 ms CreateObjectMapping: 0.024300 ms MarkObjects: 0.319300 ms  DeleteObjects: 0.007200 ms)
+
+GameHandler.Startic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.968500 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 0.275000 ms (FindLiveObjects: 0.027400 ms CreateObjectMapping: 0.031000 ms MarkObjects: 0.198000 ms  DeleteObjects: 0.017500 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.720300 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at PauseWindow.Hide () [0x00000] in <filename unknown>:0 
+  at PauseWindow.HideStatic () [0x00000] in <filename unknown>:0 
+  at GameHandler.ResumeGame () [0x00000] in <filename unknown>:0 
+  at GameHandler.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 459.
+Total: 1.016600 ms (FindLiveObjects: 0.077300 ms CreateObjectMapping: 0.074900 ms MarkObjects: 0.847400 ms  DeleteObjects: 0.014800 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 338c -> priority: 1 
+  Thread -> id: 2f64 -> priority: 1 
