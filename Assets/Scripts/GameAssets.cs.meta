@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: deaee16494bf5a141a27f5bc6325e770
+timeCreated: 1589961569
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - snakeHeadSprite: {instanceID: 0}
+  - snakeBodySprite: {fileID: 21300000, guid: d6f8845d46375e844a2ef5642667de00, type: 3}
+  - foodSprite: {instanceID: 0}
+  executionOrder: -100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
